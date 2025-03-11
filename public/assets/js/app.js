@@ -110,8 +110,7 @@ $(document).ready(function () {
             },
             email: {
                 required: true,
-                minlength: 1,
-                maxlength: 55
+                email: true
             },
             direccion: {
                 required: true,
@@ -137,8 +136,7 @@ $(document).ready(function () {
             },
             email: {
                 required: "Se requiere el email",
-                minlength: "El email necesita un mínimo de 1 caracteres",
-                maxlength: "El email tiene un máximo de 55 caracteres",
+                email: "Ingrese un email válido",
             },
             direccion: {
                 required: "Se requiere la dirección del usuario",
