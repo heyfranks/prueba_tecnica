@@ -36,4 +36,4 @@ Luego abrir localhost:8000
     - Sin conexión: A través de herramientas de desarrollador
     - 500: Generar error forzado
     - Bloqueo de interfaz: Cambiar a 3G lenta
-    - 
+    - Otros: /public/assets/mensajes.js
