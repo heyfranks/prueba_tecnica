@@ -96,7 +96,7 @@
                 <div class="modal-dialog modal-dialog-centered header-primary" role="document">
                     <div class="modal-content">
                         <div class="modal-header">
-                            <h5 class="modal-title" id="editar_usuario_label">Editar identificador ítem</span></h5>
+                            <h5 class="modal-title" id="editar_usuario_label">Editar usuario</span></h5>
                             <button type="button" class="btn-close btn-close-white" data-bs-dismiss="modal" aria-label="Close"></button>
                         </div>
                         <form id="form_editar_usuario" class="reset">
